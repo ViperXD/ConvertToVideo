@@ -7,7 +7,7 @@ class script(object):
 
 See /help for more!
 
-©️ <a href="https://t.me/prgofficial">🅼คгςยร  🅷๏ɭɭ๏ฬคץ</a>
+©️ <a href="https://t.me/VKPROJECTS">@VKPROJECTS</a>
     """
     BANNED_USER_TEXT = "Sorry, You're BANNED!"
     UPGRADE_TEXT = "ping @prgofficial"
